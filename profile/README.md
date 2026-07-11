@@ -169,27 +169,37 @@ Provide doctors with a concise, structured view of a patient's medical journey i
 ---
 
 ## 🏗️ Architecture
-[View Detailed Architecture]()
+[View Detailed Architecture](https://medmemory-ai.github.io/docs/Architecture/rag-server/)
+
+---
+
+## 🔁 Workflows
+[View Full Workflows](https://medmemory-ai.github.io/docs/Architecture/workflows/)
 
 ---
 
 ## 📂 Folder Structure
-[View Folder Structures]()
+[View Folder Structures](https://medmemory-ai.github.io/docs/Folder-Structure/)
 
 ---
 
 ## 🏗️ Tech Stack Overview
-[View Tech Stacks]()
+[View Tech Stacks](https://medmemory-ai.github.io/docs/Tech-Stack/)
 
 ---
 
 ## 🎯 Design Decisions
-[View Design Decisions]()
+[View Design Decisions](https://medmemory-ai.github.io/docs/Design-Decisions/storage/)
 
 ---
 
 ## 📖 Guides
-[View Guides]()
+
+### How to Use
+[View Guides](https://medmemory-ai.github.io/docs/Guides/how-to-use/)
+
+### Installation / Local Setup
+[View Guides](https://medmemory-ai.github.io/docs/Guides/local-setup/)
 
 ---
 
