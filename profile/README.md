@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/logo.png" alt="Logo" width="300">
+</p>
+
 # 🏥 MedMemory AI Ecosystem
 
 Welcome to the official open-source home of **MedMemory AI**! We are building a private, local-first intelligent framework designed to transform scattered, complex medical records into clean, queryable lifelong health timelines.
