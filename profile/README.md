@@ -11,6 +11,15 @@
     <a href="https://www.linkedin.com/in/srinivas-batthula">LinkedIn</a> •
     <a href="mailto:srinivasbatthula05.official@gmail.com">Contact</a>
   </p>
+  
+  <br>
+
+ <h3>Repository Links :</h3>
+  <p>
+      <a href="https://github.com/MedMemory-AI/MedMemory">Backend Server repo</a> •
+      <a href="">Frontend App repo</a> •
+      <a href="https://github.com/MedMemory-AI/docs">Centralized Docs repo</a>
+  </p>
 </div>
 
 <br/>
