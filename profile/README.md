@@ -5,9 +5,9 @@
   <p><b>An open-source, privacy-first medical memory engine. Transform scattered health records into a structured timeline in real-time.</b></p>
   
   <p>
-    <a href="">Live App</a> •
-    <a href="https://github.com/orgs/MedMemory-AI/discussions">Discussions</a> •
+    <a href="https://github.com/MedMemory-AI/frontend-app/releases/latest">Live App</a> •
     <a href="https://medmemory-ai.github.io/docs/">Documentation</a> •
+    <a href="https://github.com/orgs/MedMemory-AI/discussions">Discussions</a> •
     <a href="https://www.linkedin.com/in/srinivas-batthula">LinkedIn</a> •
     <a href="mailto:srinivasbatthula05.official@gmail.com">Contact</a>
   </p>
